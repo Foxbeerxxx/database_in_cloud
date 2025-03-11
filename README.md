@@ -55,3 +55,7 @@ psql "host=rc1a-w9cqe6tbs1dg70cb.mdb.yandexcloud.net,rc1b-ikzm2sopaxqbavza.mdb.y
 
 ```
 ![4](https://github.com/Foxbeerxxx/database_in_cloud/blob/main/img/img4.png)`
+
+![5](https://github.com/Foxbeerxxx/database_in_cloud/blob/main/img/img5.png)`
+
+![6](https://github.com/Foxbeerxxx/database_in_cloud/blob/main/img/img6.png)`
