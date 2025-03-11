@@ -1,7 +1,4 @@
 # Домашнее задание к занятию "`Базы данных в облаке`" - `Татаринцев Алексей`
-
-
-
 ---
 
 ### Задание 1
@@ -20,9 +17,9 @@
 
 Нажмите кнопку «Создать кластер» и дождитесь окончания процесса создания, статус кластера = RUNNING. Кластер создаётся от 5 до 10 минут.
 ```
-
-`При необходимости прикрепитe сюда скриншоты
 ![1](https://github.com/Foxbeerxxx/database_in_cloud/blob/main/img/img1.png)`
+![2](https://github.com/Foxbeerxxx/database_in_cloud/blob/main/img/img2.png)`
+![3](https://github.com/Foxbeerxxx/database_in_cloud/blob/main/img/img3.png)`
 
 
 ---
